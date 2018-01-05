@@ -1,5 +1,5 @@
 
-    insert into products (product_name, department_name, price, stock_quantity)
+insert into products (product_name, department_name, price, stock_quantity)
 values ('Grey Reclining Chair', 'Furniture', 60, 10);
 
 insert into products (product_name, department_name, price, stock_quantity)
